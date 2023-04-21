@@ -1,0 +1,11 @@
+This is a simple password strength checker. 
+
+Input: (Password) 
+
+Conditions: 
+- Should atleast be 8 characters long 
+- Contain upper and lower case letters
+- Atleast one digit 
+- Atleast one special character 
+
+Output: Strong password if conditions are met, other wise weak password
